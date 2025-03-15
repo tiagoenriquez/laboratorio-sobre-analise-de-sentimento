@@ -1,2 +1,2 @@
-# laboratorio-sobre-analise-de-sentimento
-O que eu aprendi do laboratório sobre análise de sentimento com Language Studio na Azure.
+# Laboratório sobre análise de sentimento
+É possível fazer análise de sentimento através de Inteligência Artificial na Azure através do Language Studio. Para tal, é preciso que o usuário crie um recurso na Azure e o use no Language Studio. Então o usuário pode escolher o idioma, submeter um texto avaliando alguma coisa e a Inteligência Artificial da Azure é capaz de dizer se a pessoa está falando bem ou mal do objeto descrito. A aplicação inteligente ainda retorna uma métrica de em quantos porcentos do texto o usuário falou a favor, em quantos foi neutro e em quantos foi contra. Esse procedimento é muito importante quando uma empresa quer a avaliação de centenas ou milhares de usuários, porque nesse cenário ficaria inviável fazer a análise de todos os depoimentos através de seres humanos.
